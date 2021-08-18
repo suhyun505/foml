@@ -1,0 +1,21 @@
+# How to make branch
+1. Make branch
+- git branch <branch name>
+
+2. Check branch list
+- git branch
+
+3. Convert branch
+- git chekcout <branch name>
+
+# About git Config
+1. How to show git config
+- git config --list
+
+2, How to set git config
+- git config --global user.name "username"
+- git config --global user.email "useremail"
+
+3. How to remow git config
+- git config --unset user.name
+- git config --unser user.email
